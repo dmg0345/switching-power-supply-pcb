@@ -1,0 +1,16 @@
+# Altium files and directories.
+__Previews
+History
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.log
+*.txt
+*.drc
+*.htm
+*.html
+
+# Output and log directories.
+Output/
+Project Outputs for*
+Project Logs for*
